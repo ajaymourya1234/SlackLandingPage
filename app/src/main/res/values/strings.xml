@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SlackLandingPage</string>
+    <string name="slogan">Where Work Happens !</string>
+    <string name="info_on_slack">Slack creates alignment and shared understanding across your team, making you more productive, less stressed, and just a little bit happier.</string>
+    <string name="team_work">It’s the foundation for teamwork</string>
+    <string name="simple">It simplifies communication</string>
+    <string name="android">Android</string>
+    <string name="ios">i o s</string>
+</resources>
